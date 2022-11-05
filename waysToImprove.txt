@@ -1,5 +1,3 @@
-video link: https://www.youtube.com/watch?v=AY9MnQ4x3zk
-
 ways to improve the project:
 
 add ground surface (37:00)
@@ -8,3 +6,5 @@ create if statement to change direction to go f right to left (46:00)
 
 USE
 .convert_alpha() to remove background from sprites
+
+59:47
